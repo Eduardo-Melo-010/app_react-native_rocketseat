@@ -5,7 +5,7 @@ import { styles } from "./styles"
 export default function Index() {
     return (
         <View style={styles.container}>
-            <Text style={styles.title}>Gabriela é linda</Text>
+            <Text style={styles.title}>Olá mundo!!</Text>
         </View>
     )      
 }
